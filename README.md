@@ -2,15 +2,18 @@
 
 A not so cool weather app!
 
+## Features
+
+- Get weather of the current location
+- Option for searching city
+- A somewhat cool message for the user!
+
+## Screenshots
+
+| ![clima-havana](https://user-images.githubusercontent.com/50145591/106290358-91655e00-6274-11eb-83ec-402094a78756.jpg) | ![clima-new_york](https://user-images.githubusercontent.com/50145591/106290275-78f54380-6274-11eb-9af3-92711d93fe43.jpg) | ![clima-dhaka](https://user-images.githubusercontent.com/50145591/106290367-95917b80-6274-11eb-919e-2ecbd9c42289.jpg) | ![clima-lagos](https://user-images.githubusercontent.com/50145591/106290369-962a1200-6274-11eb-9020-65141dccb98f.jpg) |
+| :--------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------: |
+
 ## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+For help getting started with Flutter, view
+[online documentation](https://flutter.dev/docs).
